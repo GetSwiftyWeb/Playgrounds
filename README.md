@@ -1,2 +1,2 @@
 # Playgrounds
-GetSwifty.com Swift playground files
+Get-Swifty.com Swift playground files
